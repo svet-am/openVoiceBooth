@@ -1,5 +1,5 @@
 # openVoiceBooth
-An Open Source Client/Server Voice-Over Recording Environment
+An Open Source Client/Server Voice-Over Recording Environment similar to existing commercial software solutions and replacing existing hardware solutions (ISDN)
 
 # Goals and Overview
 ## Technical Goals
