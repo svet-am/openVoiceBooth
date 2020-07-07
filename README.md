@@ -5,7 +5,7 @@ An Open Source Client/Server Voice-Over Recording Environment similar to existin
 ## Technical Goals
 + Be multi-platform (Windows, Mac, Linux)
 + Appear as a standard audio device to the host OS (for input/output)
-+ Use IEEE-1588 for TSN
++ Use IEEE-1588 for time-sensitive networking (to mitigate dropouts and artifacting)
 + Support direct Client/Server or ensemble client/server application
 + Support video as a sideband (optional & opportunisitic) channel
 + Support OS-native audio interfaces (JACK, ASIO, DirectSound, WASAPI, CoreAudio)
